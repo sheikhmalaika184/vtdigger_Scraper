@@ -1,6 +1,6 @@
 # vtdigger_Scraper
 ## Overview
-This  python code scrape data from "https://vtdigger.org"
+This  python code scrape data of articles from "https://vtdigger.org"
 Extract following fields of each news:
 1. Title
 2. Summary
